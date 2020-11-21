@@ -2,8 +2,8 @@
 ---
 
 ## What's this?
-This is a circumflex(cirkumflekso) and breve(u-hoketo) converter in Esperanto.
-It converts the surrogate characters to circumflex/brave characters.
+This is a circumflex(cirkumflekso) and breve(u-hoketo) converter in Esperanto.  
+It converts the surrogate characters to circumflex/brave characters.  
 This source code is written in [crystal](https://crystal-lang.org). 
 
 ## Surrogate Notations
