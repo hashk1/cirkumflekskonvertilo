@@ -22,8 +22,6 @@ It supports three notations:
 
 If you want to build the code: `crystal build knov.cr`, then `./konv [input.txt]` or `cat [input.txt] | ./konv`
 
-Of cause this code works on ruby: `cp knov.cr konv.rb`, then `ruby konv.rb [input.txt]` or `cat [input.txt] | ruby konv.rb`.
-
 ## License
 The source code is licensed MIT.
 
