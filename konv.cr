@@ -44,7 +44,7 @@ def convert(line)
     "u~" => "\u016D", # û
   }
   
-  pattern = /[CcGgHhJjSsUu][x^]|[CcGgHhJjSs]h|[Uu]~|[Ww]/
+  pattern = /[CcGgHhJjSs][hx^]|[Uu][x^~]|[Ww]/
 
   return line.gsub(pattern, replace)
 end
