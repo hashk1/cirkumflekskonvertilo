@@ -9,7 +9,7 @@ This source code is written in [crystal](https://crystal-lang.org).
 It supports three notations:
 - H-convention (Zamenhof's convention)   
   [Ch, ch, Gh, gh, Hh, hh, Jh, jh, Sh, sh, W, w] &rarr; [Ĉ, ĉ, Ĝ, ĝ, Ĥ, ĥ, Ĵ, ĵ, Ŝ, ŝ, Û, û]  
-  The characters Ǔ and ǔ are not supported.
+  The original convention [U, u] &rarr; [Ǔ, ǔ] is not supported.
 - X-convention  
   [Cx, cx, Gx, gx, Hx, hx, Jx, jx, Sx, sx, Ux, ux] &rarr; [Ĉ, ĉ, Ĝ, ĝ, Ĥ, ĥ, Ĵ, ĵ, Ŝ, ŝ, Û, û]
 - ^-convention  
